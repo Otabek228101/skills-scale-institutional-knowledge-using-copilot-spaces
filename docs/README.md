@@ -22,4 +22,4 @@ Quality and delivery discipline are core requirements in OctoAcme’s workflow. 
 ## Related Guidance
 
 - The project docs in this folder support a repeatable process for managing scope, quality, and stakeholder communication.
-- These materials are intended to centralize team knowledge and reduce reliance on individual memory during project delivery
+- These materials are intended to centralize team knowledge and reduce reliance on individual memory during project delivery.
