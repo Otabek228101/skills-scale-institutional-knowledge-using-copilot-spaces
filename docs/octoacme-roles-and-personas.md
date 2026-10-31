@@ -79,3 +79,58 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+---
+
+## Quality Assurance Lead
+
+### Role Summary
+QA leads validate product quality, acceptance criteria, and release readiness.
+
+### Responsibilities
+- Define test strategy and coverage
+- Review acceptance criteria and test cases
+- Coordinate regression and release validation
+- Surface risks early in the delivery cycle
+
+### Goals
+- Prevent regressions
+- Improve confidence before release
+- Align quality with user and business expectations
+
+### Typical Communication
+- Sprint reviews and QA triage
+- Defect triage with engineering and PM
+- Release readiness signoff
+
+### Interaction with Existing Roles
+- Works closely with Developers on defect validation and testability
+- Partners with PM and Product Managers to confirm acceptance criteria
+- Provides quality signals that inform release decisions
+
+---
+
+## Engineering Manager / Tech Lead
+
+### Role Summary
+This role connects delivery execution to technical quality and team health.
+
+### Responsibilities
+- Guide architecture and technical prioritization
+- Support sprint planning and cross-team dependencies
+- Remove delivery blockers and manage technical risks
+- Coordinate engineering standards and mentorship
+
+### Goals
+- Deliver predictable, sustainable engineering execution
+- Keep technical debt and delivery risks visible
+- Support team productivity and quality
+
+### Typical Communication
+- Engineering planning and dependency reviews
+- Architecture discussions and technical risk updates
+- PM and leadership reporting on delivery health
+
+### Interaction with Existing Roles
+- Partners with Product Managers on feasibility and sequencing
+- Supports Project Managers with capacity and dependency planning
+- Helps Developers align implementation with standards and roadmap priorities
